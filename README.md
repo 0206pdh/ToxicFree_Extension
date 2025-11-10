@@ -1,2 +1,27 @@
-# ToxicFree_Extension
-YouTube Live toxic comment filtering extension with local AI model
+# 🧠 ToxicFree Extension
+
+AI 기반 유튜브 실시간 채팅 악성 댓글 필터링 확장 프로그램입니다.  
+FastAPI 서버 + Chrome Extension 구조로 동작하며, 설치 시 로컬에서 AI 모델이 함께 실행됩니다.
+
+---
+
+## 🚀 설치 방법
+1️⃣ 아래 설치 파일을 다운로드합니다.  
+2️⃣ 실행 후 안내에 따라 설치를 완료합니다.  
+3️⃣ 바탕화면의 **ToxicFree Extension** 아이콘을 더블클릭하면 자동으로 실행됩니다.
+
+📦 **다운로드:**  
+👉 [Download ToxicFree Extension v1.0.0](https://github.com/0206pdh/ToxicFree_Extension/releases/download/v1.0.0/Setup_ToxicFree_Extension.exe)
+
+---
+
+## 🧩 주요 기능
+- ✅ 실시간 유튜브 채팅 감시
+- 🧠 로컬 FastAPI AI 모델로 악성 댓글 탐지
+- ⚙️ Chrome 확장 자동 로드 및 UI 표시
+- 📊 Clean Index 기반 필터링
+
+---
+
+> 📌 제작자: parkdohyun  
+> 🔗 GitHub: [@0206pdh](https://github.com/0206pdh)
