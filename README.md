@@ -11,7 +11,7 @@ FastAPI 서버 + Chrome Extension 구조로 동작하며, 설치 시 로컬에�
 3️⃣ 바탕화면의 **ToxicFree Extension** 아이콘을 더블클릭하면 자동으로 실행됩니다.
 
 📦 **다운로드:**  
-👉 [Download ToxicFree Extension v1.0.0](https://github.com/0206pdh/ToxicFree_Extension/releases/download/v1.0.0/Setup_ToxicFree_Extension.exe)
+👉 [Download_ToxicFree_Extension v1.0.2](https://github.com/0206pdh/ToxicFree_Extension/releases/download/v1.0.2/Setup_ToxicFree_Extension.exe)
 
 ---
 
